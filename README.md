@@ -10,7 +10,7 @@ Al ejecutar el programa, se mostrara un piano, el cual podremos tocar haciendo c
 
 <br>
 <p align="center">
-  <img width="640" height="480" src="https://user-images.githubusercontent.com/72138219/160675163-5c38b8a6-276e-4dc2-9f33-d21b1fde7146.PNG">
+  <img width="700" height="200" src="https://user-images.githubusercontent.com/72138219/160675163-5c38b8a6-276e-4dc2-9f33-d21b1fde7146.PNG">
 </p>
 
 <p><b> Referencias </b></p>
